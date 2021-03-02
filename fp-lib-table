@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name onigaku)(type KiCad)(uri C:/Users/neuro/dev/keyboard/onigaku/footprints/onigaku.pretty)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri C:/Users/neuro/dev/keyboard/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+)
