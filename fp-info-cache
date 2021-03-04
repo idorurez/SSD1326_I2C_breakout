@@ -1,4 +1,4 @@
-19227533910856214
+19232378423522776
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83615,6 +83615,13 @@ APX803-SOT91P240X110-3N
 3
 3
 onigaku
+B0520LW
+
+
+0
+2
+2
+onigaku
 ER-CON26HT-1
 
 
@@ -83628,6 +83635,13 @@ ER-OLED018-1_screen
 0
 0
 0
+onigaku
+MAX8570EUT+SOT95P280X145-6N
+
+
+0
+6
+6
 onigaku
 MBR0520LT1G
 
@@ -83656,6 +83670,13 @@ SuperSOT-3
 0
 3
 3
+onigaku
+max606esa-T-SOIC127P600X175-8N
+
+
+0
+8
+8
 onigaku
 max607esa&plus_T
 

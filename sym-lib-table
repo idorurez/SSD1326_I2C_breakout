@@ -1,5 +1,7 @@
 (sym_lib_table
   (lib (name onigaku)(type Legacy)(uri C:/Users/neuro/dev/keyboard/onigaku/symbols/kbd.lib)(options "")(descr ""))
   (lib (name mosfet)(type Legacy)(uri C:/Users/neuro/dev/keyboard/onigaku/symbols/FDN338P.lib)(options "")(descr ""))
-  (lib (name max607)(type Legacy)(uri C:/Users/neuro/dev/keyboard/onigaku/symbols/2021-02-28_06-56-38.lib)(options "")(descr ""))
+  (lib (name max606)(type Legacy)(uri C:/Users/neuro/dev/keyboard/onigaku/symbols/MAX606ESA-T.lib)(options "")(descr ""))
+  (lib (name max607)(type Legacy)(uri C:/Users/neuro/dev/keyboard/onigaku/symbols/MAX607ESA-T.lib)(options "")(descr ""))
+  (lib (name max8570)(type Legacy)(uri C:/Users/neuro/dev/keyboard/onigaku/symbols/MAX8570EUT.lib)(options "")(descr ""))
 )
