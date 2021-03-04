@@ -1,4 +1,4 @@
-# SSD1326 256x32 oled breakout
+# SSD1326 256x32 I2C oled breakout
 
 ![schematic](images/ssd1326_i2c_schematic.png)
 ![pcb](images/ssd1326_i2c_pcb.png)
