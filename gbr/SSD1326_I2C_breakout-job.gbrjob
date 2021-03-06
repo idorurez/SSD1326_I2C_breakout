@@ -7,19 +7,19 @@
       "Application": "Pcbnew",
       "Version":     "(5.1.9)-1"
     },
-    "CreationDate":  "2021-03-01T22:37:49-08:00"
+    "CreationDate":  "2021-03-03T23:02:33-08:00"
   },
   "GeneralSpecs":
   {
     "ProjectId":
     {
-      "Name": "SD1326_I2C_breakout",
-      "GUID": "53443133-3236-45f4-9932-435f62726561",
+      "Name": "SSD1326_I2C_breakout",
+      "GUID": "53534431-3332-4365-9f49-32435f627265",
       "Revision": "0.1b"
     },
     "Size":
     {
-      "X": 56.000,
+      "X": 55.790,
       "Y": 12.900
     },
     "LayerNumber": 2,
@@ -38,47 +38,47 @@
   "FilesAttributes":
   [
     {
-      "Path":  "SD1326_I2C_breakout-F_Cu.gbr",
+      "Path":  "SSD1326_I2C_breakout-F_Cu.gbr",
       "FileFunction":  "Copper,L1,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "SD1326_I2C_breakout-B_Cu.gbr",
+      "Path":  "SSD1326_I2C_breakout-B_Cu.gbr",
       "FileFunction":  "Copper,L2,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "SD1326_I2C_breakout-F_Paste.gbr",
+      "Path":  "SSD1326_I2C_breakout-F_Paste.gbr",
       "FileFunction":  "SolderPaste,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "SD1326_I2C_breakout-B_Paste.gbr",
+      "Path":  "SSD1326_I2C_breakout-B_Paste.gbr",
       "FileFunction":  "SolderPaste,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "SD1326_I2C_breakout-F_SilkS.gbr",
+      "Path":  "SSD1326_I2C_breakout-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "SD1326_I2C_breakout-B_SilkS.gbr",
+      "Path":  "SSD1326_I2C_breakout-B_SilkS.gbr",
       "FileFunction":  "Legend,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "SD1326_I2C_breakout-F_Mask.gbr",
+      "Path":  "SSD1326_I2C_breakout-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "SD1326_I2C_breakout-B_Mask.gbr",
+      "Path":  "SSD1326_I2C_breakout-B_Mask.gbr",
       "FileFunction":  "SolderMask,Bot",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "SD1326_I2C_breakout-Edge_Cuts.gbr",
+      "Path":  "SSD1326_I2C_breakout-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
     }
